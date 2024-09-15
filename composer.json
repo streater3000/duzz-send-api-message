@@ -1,0 +1,17 @@
+{
+    "name": "duzzapi/send-api-message",
+    "description": "A WordPress plugin to send messages via a custom API, integrating with the WordPress messaging system.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "DuzzApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Streater Kelley"
+        }
+    ],
+    "require": {}
+}
